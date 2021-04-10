@@ -1,0 +1,16 @@
+### Module positions - created on 24.11.2020 12:17:24 ###
+### Printed by Pcbnew version kicad (5.1.5)-3
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                                           PosX       PosY       Rot  Side
+C1        1_uF      C_0805_2012Metric_Pad1.15x1.40mm_HandSolder   -73.3523  -150.1198   90.0000  bottom
+C2        100_nF    C_0805_2012Metric_Pad1.15x1.40mm_HandSolder   -71.0895  -150.1198   90.0000  bottom
+C3        100_nF    C_0805_2012Metric_Pad1.15x1.40mm_HandSolder   -75.6150  -150.1198  270.0000  bottom
+C7        270_pF    C_0805_2012Metric_Pad1.15x1.40mm_HandSolder   -74.4000  -130.6000   90.0000  bottom
+Q2        2N3905    SOT-23_Handsoldering                          -34.2500  -142.9500  180.0000  bottom
+Q4        2N3905    SOT-23_Handsoldering                          -43.2000  -142.9500  180.0000  bottom
+Q6        2N3905    SOT-23_Handsoldering                          -52.5000  -142.9500  180.0000  bottom
+Q8        2N3905    SOT-23_Handsoldering                          -61.4500  -142.9500  180.0000  bottom
+R12       10k       R_0805_2012Metric_Pad1.15x1.40mm_HandSolder   -79.5000  -154.2500   90.0000  bottom
+R24       11k       R_0805_2012Metric_Pad1.15x1.40mm_HandSolder   -74.4000  -127.6500  180.0000  bottom
+## End
