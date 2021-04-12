@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration name="OCD software" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="software" TARGET_NAME="software.elf" RUN_TARGET_PROJECT_NAME="software" RUN_TARGET_NAME="software.elf">
+    <openocd gdb-port="3333" telnet-port="4444" board-config="C:\Users\pc\Documents\GitHub\multi-channel-fast-pwm-pcb\software\st_nucleo_f0.cfg" reset-type="INIT" download-type="ALWAYS" />
+    <method v="2">
+      <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
